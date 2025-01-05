@@ -12,6 +12,19 @@
     font-size: 24px;
 }
 
+/* since the elements 'Number 3' and 'Number 4'
+    in the HTML file share the same font size, we can use
+    an 'adjust-font-size' class for both the elements to help reduce
+    duplicate code. 
+     
+    .adjust-font-size {
+        font-size: 24px;
+    }
+
+    <p class="odd adjust-font-size">Number 3 - I'm a class, but cooler!</p>
+    <div id="four" class="adjust-font-size">Number 4 - I'm another ID.</div>
+    */
+
 #four{
     background-color: rgb(153, 243, 153);
     font-size: 24px;
