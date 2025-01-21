@@ -21,7 +21,7 @@ body {
   display: flex;
   align-items: center;
   padding: 8px;
-  gap: 8px;
+  gap: 16px;
 }
 
 .profile-image {
@@ -59,11 +59,12 @@ ul {
 
 .links{
   display: flex;
-  gap: 8px;
+  gap: 16px;
 }
 
 .right-items{
   margin-left: auto;
 
   display: flex;
+  gap: 16px;
 }
