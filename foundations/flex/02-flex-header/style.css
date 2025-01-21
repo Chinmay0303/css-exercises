@@ -39,6 +39,11 @@ a {
   border: 2px solid brown;
 }
 
+.left-links ul,
+.right-links ul{
+  display: flex;
+}
+
 .right-links{
   border: 2px solid red;
 }
