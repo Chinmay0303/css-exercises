@@ -64,4 +64,6 @@ ul {
 
 .right-items{
   margin-left: auto;
+
+  display: flex;
 }
