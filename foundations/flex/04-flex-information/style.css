@@ -37,4 +37,5 @@ img {
   border: 2px solid red;
   margin: 8px;
   padding: 8px;
+  display: flex;
 }
