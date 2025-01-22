@@ -38,6 +38,10 @@ img {
   margin: 8px;
   padding: 8px;
   display: flex;
+
+  justify-content: center;
+  gap: 52px;
+  align-items: center;
 }
 
 .item{
