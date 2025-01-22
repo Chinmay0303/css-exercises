@@ -29,3 +29,9 @@ img {
   justify-content: center;
   background: #eee;
 }
+
+.item-container{
+  border: 2px solid red;
+  margin: 8px;
+  padding: 8px;
+}
