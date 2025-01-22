@@ -41,5 +41,6 @@ img {
 }
 
 .item{
-  border:2px solid blue
+  border:2px solid blue;
+  display: flex;
 }
