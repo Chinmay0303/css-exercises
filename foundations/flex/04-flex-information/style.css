@@ -15,6 +15,9 @@ img {
 .title {
   font-size: 36px;
   font-weight: 900;
+  margin: 8px;
+  padding: 8px;
+  border: 2px solid black;
 }
 
 /* do not edit this footer */
