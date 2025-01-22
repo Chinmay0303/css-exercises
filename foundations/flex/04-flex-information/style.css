@@ -48,4 +48,8 @@ img {
   border:2px solid blue;
   display: flex;
   width: 200px;
+
+  justify-content: center;
+  align-items: center;
+  flex-direction: column;
 }
