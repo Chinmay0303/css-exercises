@@ -39,3 +39,7 @@ img {
   padding: 8px;
   display: flex;
 }
+
+.item{
+  border:2px solid blue
+}
