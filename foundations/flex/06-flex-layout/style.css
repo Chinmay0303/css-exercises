@@ -35,16 +35,22 @@ input {
   border: 2px solid red;
   padding: 8px;
   margin: 8px;
+
+  display: flex;
 }
 
 .content{
   border: 2px solid blue;
   padding: 8px;
   margin: 8px;
+
+  display: flex;
 }
 
 .footer{
   border: 2px solid green;
   padding: 8px;
   margin: 8px;
+
+  display: flex;
 }
