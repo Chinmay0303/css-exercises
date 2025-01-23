@@ -70,3 +70,8 @@ input {
   display: flex;
   gap: 16px;
 }
+
+a{
+  text-decoration: none;
+  color: #5d5b5b;
+}
