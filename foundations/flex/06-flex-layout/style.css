@@ -61,3 +61,9 @@ input {
   justify-content: space-between;
   align-items: center;
 }
+
+.header ul,
+.footer ul{
+  border: 2px solid palevioletred;
+
+}
