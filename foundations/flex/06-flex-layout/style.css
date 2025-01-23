@@ -30,3 +30,15 @@ input {
   padding: 8px 24px;
   width: 400px;
 }
+
+.header{
+  border: 2px solid red;
+}
+
+.content{
+  border: 2px solid blue;
+}
+
+.footer{
+  border: 2px solid green;
+}
