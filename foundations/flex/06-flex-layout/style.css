@@ -65,5 +65,7 @@ input {
 .header ul,
 .footer ul{
   border: 2px solid palevioletred;
+  list-style:none;
 
+  display: flex;
 }
