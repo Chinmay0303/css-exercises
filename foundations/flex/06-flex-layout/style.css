@@ -33,12 +33,18 @@ input {
 
 .header{
   border: 2px solid red;
+  padding: 8px;
+  margin: 8px;
 }
 
 .content{
   border: 2px solid blue;
+  padding: 8px;
+  margin: 8px;
 }
 
 .footer{
   border: 2px solid green;
+  padding: 8px;
+  margin: 8px;
 }
