@@ -36,7 +36,7 @@ input {
 }
 
 .header{
-  border: 2px solid red;
+  /* border: 2px solid red; */
   padding: 8px;
   margin: 8px;
 
@@ -46,7 +46,7 @@ input {
 }
 
 .content{
-  border: 2px solid blue;
+  /* border: 2px solid blue; */
   padding: 8px;
   margin: 8px;
 
@@ -61,7 +61,7 @@ input {
 }
 
 .footer{
-  border: 2px solid green;
+  /* border: 2px solid green; */
   padding: 8px;
   /* margin: 8px; */
 
@@ -74,7 +74,7 @@ input {
 
 .header ul,
 .footer ul{
-  border: 2px solid palevioletred;
+  /* border: 2px solid palevioletred; */
   list-style:none;
 
   display: flex;
