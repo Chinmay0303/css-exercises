@@ -37,7 +37,7 @@ input {
 
 .header{
   /* border: 2px solid red; */
-  padding: 8px;
+  padding: 12px;
   margin: 8px;
 
   display: flex;
@@ -47,7 +47,7 @@ input {
 
 .content{
   /* border: 2px solid blue; */
-  padding: 8px;
+  padding: 12px;
   margin: 8px;
 
   flex-grow: 2;
@@ -62,7 +62,7 @@ input {
 
 .footer{
   /* border: 2px solid green; */
-  padding: 8px;
+  padding: 12px;
   /* margin: 8px; */
 
   display: flex;
